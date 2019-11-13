@@ -1,9 +1,9 @@
 {
-  "name": "my-project",
+  "name": "yida-client",
   "version": "0.0.1",
   "author": "hazy <hezhengyi@edaedu.net>",
   "description": "An electron-vue project",
-  "license": null,
+  "license": "ISC",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
@@ -20,7 +20,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "my-project",
+    "productName": "yida-client",
     "appId": "com.yida.electron",
     "directories": {
       "output": "build"

@@ -1,4 +1,4 @@
-# my-project
+# yida-client
 
 > An electron-vue project
 
